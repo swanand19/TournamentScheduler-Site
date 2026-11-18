@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="KickCricket">
+  <defs>
+    <linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A2470"/>
+      <stop offset="1" stop-color="#FF8FB1"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="10" fill="url(#dusk)"/>
+  <path d="M9 25V12M23 25V12" stroke="#F6F2FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M6 10h6M20 10h6" stroke="#6FE3D6" stroke-width="3" stroke-linecap="round"/>
+</svg>
